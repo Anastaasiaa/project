@@ -1,0 +1,3 @@
+/home/anastasia/project/build/CMakeFiles/rebuild_cache.dir
+/home/anastasia/project/build/CMakeFiles/app.dir
+/home/anastasia/project/build/CMakeFiles/edit_cache.dir
